@@ -1,7 +1,0 @@
-site_name: UmedaTakefumi Profile
-theme: windmill
-nav:
-  - Home: index.md
-  - History: work-experience.md
-  - GitHubRepos: githubrepo.md
-  - Diary: diary.md
